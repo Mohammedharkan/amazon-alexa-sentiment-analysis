@@ -1,8 +1,7 @@
+# Amazon Alexa Sentiment Analysis
+
 <img width="449" height="360" alt="image" src="https://github.com/user-attachments/assets/48731a7b-b1ea-421e-a86b-0e012cca2bf0" />
 
-
-
-# Amazon Alexa Sentiment Analysis
 
 ## Project Overview
 This project applies Natural Language Processing (NLP) and machine learning techniques to classify Amazon Alexa customer reviews as positive or negative. The project uses customer review text, product variations, and sentiment feedback to build and evaluate a Random Forest classification model.
